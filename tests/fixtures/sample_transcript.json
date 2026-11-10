@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "request_id": "fixture-sample",
+    "duration": 11.2,
+    "channels": 1,
+    "models": [
+      "nova-3"
+    ]
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Why does this matter? The useful point is that captions follow the spoken words. That is the whole clip and it stands on its own.",
+            "confidence": 0.99,
+            "words": [
+              {
+                "word": "why",
+                "start": 0.4,
+                "end": 0.9,
+                "confidence": 0.99,
+                "punctuated_word": "Why"
+              },
+              {
+                "word": "does",
+                "start": 0.9,
+                "end": 1.4,
+                "confidence": 0.99,
+                "punctuated_word": "does"
+              },
+              {
+                "word": "this",
+                "start": 1.4,
+                "end": 1.9,
+                "confidence": 0.99,
+                "punctuated_word": "this"
+              },
+              {
+                "word": "matter",
+                "start": 1.9,
+                "end": 2.4,
+                "confidence": 0.99,
+                "punctuated_word": "matter?"
+              },
+              {
+                "word": "the",
+                "start": 2.6,
+                "end": 3.02,
+                "confidence": 0.99,
+                "punctuated_word": "The"
+              },
+              {
+                "word": "useful",
+                "start": 3.02,
+                "end": 3.44,
+                "confidence": 0.99,
+                "punctuated_word": "useful"
+              },
+              {
+                "word": "point",
+                "start": 3.44,
+                "end": 3.86,
+                "confidence": 0.99,
+                "punctuated_word": "point"
+              },
+              {
+                "word": "is",
+                "start": 3.86,
+                "end": 4.28,
+                "confidence": 0.99,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "that",
+                "start": 4.28,
+                "end": 4.7,
+                "confidence": 0.99,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "captions",
+                "start": 4.7,
+                "end": 5.12,
+                "confidence": 0.99,
+                "punctuated_word": "captions"
+              },
+              {
+                "word": "follow",
+                "start": 5.12,
+                "end": 5.54,
+                "confidence": 0.99,
+                "punctuated_word": "follow"
+              },
+              {
+                "word": "the",
+                "start": 5.54,
+                "end": 5.96,
+                "confidence": 0.99,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "spoken",
+                "start": 5.96,
+                "end": 6.38,
+                "confidence": 0.99,
+                "punctuated_word": "spoken"
+              },
+              {
+                "word": "words",
+                "start": 6.38,
+                "end": 6.8,
+                "confidence": 0.99,
+                "punctuated_word": "words."
+              },
+              {
+                "word": "that",
+                "start": 7.0,
+                "end": 7.382,
+                "confidence": 0.99,
+                "punctuated_word": "That"
+              },
+              {
+                "word": "is",
+                "start": 7.382,
+                "end": 7.764,
+                "confidence": 0.99,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "the",
+                "start": 7.764,
+                "end": 8.145,
+                "confidence": 0.99,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "whole",
+                "start": 8.145,
+                "end": 8.527,
+                "confidence": 0.99,
+                "punctuated_word": "whole"
+              },
+              {
+                "word": "clip",
+                "start": 8.527,
+                "end": 8.909,
+                "confidence": 0.99,
+                "punctuated_word": "clip"
+              },
+              {
+                "word": "and",
+                "start": 8.909,
+                "end": 9.291,
+                "confidence": 0.99,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "it",
+                "start": 9.291,
+                "end": 9.673,
+                "confidence": 0.99,
+                "punctuated_word": "it"
+              },
+              {
+                "word": "stands",
+                "start": 9.673,
+                "end": 10.055,
+                "confidence": 0.99,
+                "punctuated_word": "stands"
+              },
+              {
+                "word": "on",
+                "start": 10.055,
+                "end": 10.436,
+                "confidence": 0.99,
+                "punctuated_word": "on"
+              },
+              {
+                "word": "its",
+                "start": 10.436,
+                "end": 10.818,
+                "confidence": 0.99,
+                "punctuated_word": "its"
+              },
+              {
+                "word": "own",
+                "start": 10.818,
+                "end": 11.2,
+                "confidence": 0.99,
+                "punctuated_word": "own."
+              }
+            ],
+            "paragraphs": {
+              "transcript": "Why does this matter? The useful point is that captions follow the spoken words. That is the whole clip and it stands on its own.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Why does this matter?",
+                      "start": 0.4,
+                      "end": 2.4
+                    },
+                    {
+                      "text": "The useful point is that captions follow the spoken words.",
+                      "start": 2.6,
+                      "end": 6.8
+                    },
+                    {
+                      "text": "That is the whole clip and it stands on its own.",
+                      "start": 7.0,
+                      "end": 11.2
+                    }
+                  ],
+                  "num_words": 25,
+                  "start": 0.4,
+                  "end": 11.2
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
